@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="http://miromannino.github.io/Justified-Gallery/" target="_blank">
-    <img src="https://raw.github.com/miromannino/Justified-Gallery/gh-imgs/jgcover.png" />
-  </a>
-</div>
-
 This is a JQuery plugin which allows you to create responsive, infinite, and high quality justified
 gallery of images.
 
@@ -260,3 +254,4 @@ Regarding code style like indentation and whitespace, **follow the conventions y
 - Ensure that the written tests don't fail anymore, as well as the other tests.
 - Update the documentation to reflect any changes.
 - Push to your fork and submit a pull request.
+=======
