@@ -255,4 +255,6 @@ Regarding code style like indentation and whitespace, **follow the conventions y
 - Update the documentation to reflect any changes.
 - Push to your fork and submit a pull request.
 =======
-Please see the documentation here: https://github.com/miromannino/Justified-Gallery
+=======
+# Justified Gallery ported for Packagist
+This is not my library. I'm simply providing a composer.json for use with Packagist.
