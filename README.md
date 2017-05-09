@@ -254,7 +254,3 @@ Regarding code style like indentation and whitespace, **follow the conventions y
 - Ensure that the written tests don't fail anymore, as well as the other tests.
 - Update the documentation to reflect any changes.
 - Push to your fork and submit a pull request.
-=======
-=======
-# Justified Gallery ported for Packagist
-This is not my library. I'm simply providing a composer.json for use with Packagist.
